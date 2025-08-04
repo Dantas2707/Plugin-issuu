@@ -62,3 +62,5 @@ Apesar da extensão .jpg, o servidor pode responder com image/webp. O sistema de
 
 Geração de PDF:
 Usa PDF-Lib para criar o documento. Cada imagem válida é embutida com delay de 2 segundos entre adições. Após um delay final de 2 segundos, o PDF é salvo e o download é iniciado automaticamente.
+
+Slides: https://app.genially.com/editor/6890b7117c70bb6237f9dbaf
