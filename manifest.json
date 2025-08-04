@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Captura issuu",
+  "version": "1.0.0",
+  "description": "Este plugin foi desenvolvido para baixar revistas hospedadas no Issuu.",
+  "action": {
+    "default_popup": "tela.html"
+  },
+  "icons": {
+    "128": "Icone/of.png"
+  }
+}
