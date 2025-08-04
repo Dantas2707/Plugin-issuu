@@ -11,7 +11,7 @@ function capturarInformacoes() {
   const numeroPaginas = parseInt(document.getElementById("numeroPaginas").value, 10);
 
   if (complementoUrl && numeroPaginas && numeroPaginas > 0) {
-    showOutput("Iniciando download e geração do PDF...");
+    showOutput("Download iniciado");
     getImageUrl(complementoUrl, numeroPaginas);
   } else {
     showOutput("Por favor, preencha todos os campos corretamente!");
