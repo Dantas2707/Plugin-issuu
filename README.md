@@ -15,7 +15,7 @@ Visão geral:
 7. Gera e dispara o download do PDF consolidado.
 
 Pré-requisitos:
-- Navegador moderno (Chrome, Firefox, etc.).
+- Navegador moderno (Chrome).
 - Rodar via servidor HTTP local (não usar file://). Exemplo:
   python -m http.server 8000
 - Ter o arquivo pdf-lib.min.js em js/pdf-lib.min.js (baixado de https://cdn.jsdelivr.net/npm/pdf-lib/dist/pdf-lib.min.js).
